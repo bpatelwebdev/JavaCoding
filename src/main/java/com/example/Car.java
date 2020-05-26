@@ -1,13 +1,15 @@
 package com.example;
 
-public class Car {
+public class Car implements CarInterface,NewFeaturedCar {
 
     private String color;
     private String company;
     private String model;
     private String number = "GJ212323";
-    private boolean isStarted =false;
-// special method called constructor
+    protected boolean isStarted =false;
+    private boolean sunRoofOpened;
+
+    // special method called constructor
     public Car(String company,String model){
         this.company = company;
         this.model= model;
@@ -42,7 +44,7 @@ public class Car {
         return number;
     }
 
-    private int speed =0;
+    protected int speed =0;
 
     public int getSpeed(){
         return speed;
@@ -70,4 +72,13 @@ public class Car {
         }
     }
 
+    @Override
+    public void openSunRoof() {
+        this.sunRoofOpened = true;
+    }
+
+    @Override
+    public void closeSunRoof() {
+        sunRoofOpened =false;
+    }
 }
