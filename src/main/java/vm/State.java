@@ -1,0 +1,5 @@
+package vm;
+
+public enum State {
+    IDLE, STOPPED, STARTED, WAITINGPAYMENT, PAYMENTRECIVED, BUSY
+}

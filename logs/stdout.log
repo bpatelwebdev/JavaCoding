@@ -1,0 +1,87 @@
+2020-05-22 11:16:22,388 INFO v.VendingMachine [main] this is info
+2020-05-22 11:16:22,391 DEBUG v.VendingMachine [main] This is Debug
+2020-05-22 11:16:22,392 WARN v.VendingMachine [main] this is warning
+2020-05-22 11:16:22,392 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:16:22,393 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:16:22,393 TRACE v.VendingMachine [main] this is trace
+
+2020-05-22 11:16:44,183 INFO v.VendingMachine [main] this is info
+2020-05-22 11:16:44,187 DEBUG v.VendingMachine [main] This is Debug
+2020-05-22 11:16:44,187 WARN v.VendingMachine [main] this is warning
+2020-05-22 11:16:44,188 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:16:44,188 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:16:44,197 TRACE v.VendingMachine [main] this is trace
+
+2020-05-22 11:19:44,654 WARN v.VendingMachine [main] this is warning
+2020-05-22 11:19:44,658 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:19:44,659 FATAL v.VendingMachine [main] This is Fatal
+
+2020-05-22 11:21:06,656 FATAL v.VendingMachine [main] This is Fatal
+
+2020-05-22 11:21:38,847 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:21:38,851 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:23:32,066 ERROR v.VendingMachine [main] [vm.VendingMachine.<init>(VendingMachine.java:18)] this is error
+2020-05-22 11:23:32,069 FATAL v.VendingMachine [main] [vm.VendingMachine.<init>(VendingMachine.java:19)] This is Fatal
+2020-05-22 11:25:24,914 ERROR v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:18) [main] this is error
+2020-05-22 11:25:24,918 FATAL v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:19) [main] This is Fatal
+2020-05-22 11:27:17,134 ERROR v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:18) [main] this is error
+2020-05-22 11:27:17,137 FATAL v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:19) [main] This is Fatal
+2020-05-22 11:28:59,474 ERROR v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:18) [main] this is error
+2020-05-22 11:28:59,477 FATAL v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:19) [main] This is Fatal
+2020-05-22 11:42:20,799 ERROR v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:18) [main] this is error
+2020-05-22 11:42:20,804 FATAL v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:19) [main] This is Fatal
+2020-05-22 11:43:22,774 ERROR v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:18) [main] this is error
+2020-05-22 11:43:22,778 FATAL v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:19) [main] This is Fatal
+2020-05-22 11:45:23,568 ERROR v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:18) [main] this is error
+2020-05-22 11:45:23,571 FATAL v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:19) [main] This is Fatal
+2020-05-22 11:46:40,733 ERROR v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:18) [main] this is error
+2020-05-22 11:46:40,736 FATAL v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:19) [main] This is Fatal
+2020-05-22 11:47:20,357 ERROR v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:18) [main] this is error
+2020-05-22 11:47:20,361 FATAL v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:19) [main] This is Fatal
+2020-05-22 11:47:20,362 ERROR v.VendingMachineTestvm.VendingMachineTest.toTestBootOfVendingMachine(VendingMachineTest.java:23) [main] error
+2020-05-22 11:49:19,818 ERROR v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:18) [main] this is error
+2020-05-22 11:49:19,825 FATAL v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:19) [main] This is Fatal
+2020-05-22 11:49:19,830 ERROR v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:18) [main] this is error
+2020-05-22 11:49:19,830 FATAL v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:19) [main] This is Fatal
+2020-05-22 11:49:19,831 ERROR v.VendingMachineTestvm.VendingMachineTest.toTestBootOfVendingMachine(VendingMachineTest.java:23) [main] error
+2020-05-22 11:49:19,840 ERROR v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:18) [main] this is error
+2020-05-22 11:49:19,841 FATAL v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:19) [main] This is Fatal
+2020-05-22 11:49:19,843 ERROR v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:18) [main] this is error
+2020-05-22 11:49:19,843 FATAL v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:19) [main] This is Fatal
+2020-05-22 11:49:19,845 ERROR v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:18) [main] this is error
+2020-05-22 11:49:19,845 FATAL v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:19) [main] This is Fatal
+2020-05-22 11:49:19,847 ERROR v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:18) [main] this is error
+2020-05-22 11:49:19,847 FATAL v.VendingMachinevm.VendingMachine.<init>(VendingMachine.java:19) [main] This is Fatal
+2020-05-22 11:51:58,806 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:51:58,810 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:51:58,814 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:51:58,814 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:51:58,815 ERROR v.VendingMachineTest [main] error
+2020-05-22 11:51:58,820 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:51:58,820 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:51:58,821 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:51:58,822 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:51:58,823 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:51:58,824 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:51:58,826 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:51:58,826 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:53:02,988 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:53:02,992 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:53:02,996 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:53:02,996 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:53:02,997 ERROR v.VendingMachineTest [main] error
+2020-05-22 11:53:02,998 ERROR v.VendingMachineTest [main] java.lang.AssertionError: expected [STARTED] but found [IDLE]
+2020-05-22 11:53:02,999 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:53:03,000 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:53:03,001 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:53:03,002 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:53:03,003 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:53:03,003 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:53:03,005 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:53:03,005 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:53:44,917 ERROR v.VendingMachine [main] this is error
+2020-05-22 11:53:44,921 FATAL v.VendingMachine [main] This is Fatal
+2020-05-22 11:53:44,923 ERROR v.VendingMachineTest [main] error
+2020-05-22 11:53:44,927 ERROR v.VendingMachineTest [main] java.lang.AssertionError: expected [STARTED] but found [IDLE]
+2020-05-23 13:46:27,762 ERROR v.VendingMachineTest [main] error
+2020-05-23 13:46:27,767 ERROR v.VendingMachineTest [main] java.lang.AssertionError: expected [STARTED] but found [IDLE]
